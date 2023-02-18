@@ -22,7 +22,7 @@ Packages/Libraries
 <li>ssl</li></ul>
 
 Usage:
->> python sni_finder.py google.com
+>> python sni_finder.py [hostname]
 
 
 Note: This script is intended for testing and educational purposes only. Do not use it to access websites or services without permission.
